@@ -5,7 +5,8 @@
 ### Install
 To install required packages run the following commands in order in the root project directory. 
  ```
-$ npm install-all
+$ npm install
+$ (cd client && npm install)
  ```
 
 ### Run
