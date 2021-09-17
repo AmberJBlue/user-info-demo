@@ -16,4 +16,4 @@ $ npm run dev
 ```
 
 ### App preview:
-<img src="../img/screenshot.png" alt="App preview"/>
+<img src="./img/screenshot.png" alt="App preview"/>
